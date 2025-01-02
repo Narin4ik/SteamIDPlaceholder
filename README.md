@@ -1,5 +1,5 @@
 # SteamIDPlaceholder
-Displays STEAMID64 as a placeholder using CustomHint.  
+Displays STEAMID64 as a placeholder using [CustomHint](https://github.com/BTF-SCPSL/CustomHint).  
 Placeholder: `{steamid64}`
 
 ## Configs
