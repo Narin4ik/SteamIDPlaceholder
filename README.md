@@ -1,5 +1,6 @@
 # SteamIDPlaceholder
-Displays STEAMID64 as a placeholder using CustomHint.
+Displays STEAMID64 as a placeholder using CustomHint.  
+Placeholder: `{steamid64}`
 
 ## Config
 Config.yml:
