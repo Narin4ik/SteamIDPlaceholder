@@ -2,7 +2,7 @@
 Displays STEAMID64 as a placeholder using CustomHint.  
 Placeholder: `{steamid64}`
 
-## Config
+## Configs
 Config.yml:
 ```yaml
 steam_i_d_placeholder:
